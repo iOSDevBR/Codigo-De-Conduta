@@ -7,7 +7,7 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 ## Código de Conduta
 
-O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas independente de:
+O **Slack iOS Dev BR** deve ser um lugar seguro e convidativo para pessoas independente de:
 - Gênero, identidade de gênero ou expressão de gênero
 - Orientação sexual
 - Incapacidade
@@ -49,19 +49,19 @@ Falhar em seguir as regras de comunidade descritas nesse documento acarreta em c
 
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um admin. Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
-* **Walmyr Carvalho** - @walmyrcarvalho
-* **Lúcio Maciel** - @luciofm
-* **João Gouveia** - @joaogouveia
+* **Douglas Fischer** - @doug
+* **Gustavo Barbosa** - @gustavo.barbosa
+* **Renan Protector** - @reprotector
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack ao menos que isso seja resultado de uma discussão acordada entre todos.*
 
 ## Como participar do grupo?
 
-Este grupo é voltado para profissionais que trabalhem profissionalmente com Android, isso inclui desenvolvedores e designers e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessário nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android nacionais em torno de discussões e aprendizado coletivo, portanto qualquer tópico que destoe demais disso - como spam de aplicativos piratas, dúvidas sobre ROMs ou manutenção de aparelhos Android - são cabíveis de banimento. 
+Este grupo é voltado para profissionais que trabalhem profissionalmente com iOS/MacOS, isso inclui desenvolvedores e designers e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessário nenhuma experiência prévia com iOS/MacOS, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores iOS/MacOS nacionais em torno de discussões e aprendizado coletivo, portanto qualquer tópico que destoe demais disso - como spam de aplicativos piratas, dúvidas sobre ROMs ou manutenção de aparelhos da Apple - são cabíveis de banimento. 
 
 Portanto, entendendo o que foi dito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
-[http://androiddevbr.herokuapp.com](http://androiddevbr.herokuapp.com)
+[http://iosdevbr.herokuapp.com](http://iosdevbr.herokuapp.com)
 
 ## Regras de etiqueta - Slack
 
@@ -73,6 +73,6 @@ Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure
 
 ### Dúvidas
 
-Antes de fazer alguma pergunta, tire um tempo, procure no Google sobre a sua dúvida e procure na documentação do Android. Se depois disso você não estiver claro sobre a resposta, faça referência das fontes que você consultou parar tirar sua dúvida.
+Antes de fazer alguma pergunta, tire um tempo, procure no Google sobre a sua dúvida e procure na documentação da Apple. Se depois disso você não estiver claro sobre a resposta, faça referência das fontes que você consultou parar tirar sua dúvida.
 
 Ao fazer perguntas, evite algum linguajar imperativo ou impaciente, estamos todos aqui para nos ajudar!
