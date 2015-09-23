@@ -54,6 +54,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 * **Renan Protector** - @reprotector
 * **Walmyr Carvalho** - @walmyrcarvalho
 * **Thiago Holanda** - @tholanda
+* **Marcelo Fabri** - @fabri
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
