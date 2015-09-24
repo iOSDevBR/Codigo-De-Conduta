@@ -5,7 +5,7 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 --
 
-## Código de Conduta
+## <a id="codigo"></a>Código de Conduta
 
 O **Slack iOS Dev BR** deve ser um lugar seguro e convidativo para pessoas independentemente de:
 - Gênero, identidade de gênero ou expressão de gênero
@@ -58,7 +58,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
-## Como participar do grupo?
+## <a id="como-participar"></a>Como participar do grupo?
 
 Este grupo é voltado para profissionais que trabalhem com iOS/MacOS. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com iOS, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores iOS/MacOS nacionais em torno de discussões e aprendizado coletivo, portanto qualquer tópico que destoe demais disso - como spam de aplicativos piratas, dúvidas sobre ROMs ou manutenção de aparelhos iOS - são passíveis de banimento. 
 
@@ -66,9 +66,9 @@ Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortáv
 
 [http://iosdevbr.herokuapp.com](http://iosdevbr.herokuapp.com)
 
-## Regras de etiqueta - Slack
+## <a id="etiqueta"></a>Regras de etiqueta - Slack
 
-### Comandos
+### <a id="comandos"></a>Comandos
 
 Muitos membros desse grupo usam o Slack durante o trabalho, ou o tem instalado no celular, por tal razão os comandos `@channel` e `@everyone` foram desabilitados para usuários normais, sendo utilizados somente pelos moderadores.
 
