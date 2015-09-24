@@ -74,7 +74,7 @@ Muitos membros desse grupo usam o Slack durante o trabalho, ou o tem instalado n
 
 Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure um admin.
 
-### Dúvidas
+### [Dúvidas](#duvidas)
 
 Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação da Apple, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida.
 
