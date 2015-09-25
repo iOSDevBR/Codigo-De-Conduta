@@ -12,7 +12,7 @@ O **Slack iOS Dev BR** deve ser um lugar seguro e convidativo para pessoas indep
 - Orientação sexual
 - Restrições físicas
 - Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
-- Raça
+- Etnia
 - Idade
 - Religião
 
