@@ -50,7 +50,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um admin. Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 * **Douglas Fischer** - @doug
-* **Gustavo Barbosa** - @gustavo.barbosa
+* **Gustavo Barbosa** - @gustavo
 * **Renan Protector** - @reprotector
 * **Walmyr Carvalho** - @walmyrcarvalho
 * **Thiago Holanda** - @tholanda
