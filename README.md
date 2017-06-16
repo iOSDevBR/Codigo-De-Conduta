@@ -52,7 +52,6 @@ O desrespeito √†s regras desta comunidade, descritas nesse documento, acarretar√
 * **Douglas Fischer** - @doug
 * **Gustavo Barbosa** - @gustavo
 * **Renan Protector** - @reprotector
-* **Walmyr Carvalho** - @walmyrcarvalho
 * **Thiago Holanda** - @tholanda
 * **Marcelo Fabri** - @fabri
 
